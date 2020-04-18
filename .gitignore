@@ -2,6 +2,7 @@
 .vs/
 
 # Content Folder
+Content/
 Content/StarterContent/*
 
 # Compiled Object files
