@@ -2,7 +2,7 @@
 .vs/
 
 # Content Folder
-Content/StarterContent/
+Content/StarterContent/*
 
 # Compiled Object files
 *.slo
